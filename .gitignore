@@ -1,0 +1,4 @@
+# Avoid committing sensitive keys
+# config.js
+.DS_Store
+Thumbs.db

@@ -1,5 +1,5 @@
 // Replace with your free OpenWeather API key
-const API_KEY = "YOUR_OPENWEATHER_API_KEY";
+const API_KEY = "d863942fa95145cafc39fb644c3818d6";
 
 const form = document.getElementById("search-form");
 const cityInput = document.getElementById("city-input");
